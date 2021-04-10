@@ -1,4 +1,4 @@
-# Deep-Neural-Network-and-Backpropagation-with-Pytorch
+# Deep-Neural-Network-and-Backpropagation-with-Pytorch from Scratch
 
 Deep neural networks have shown staggering performances in various learning tasks, including computer vision,
 natural language processing, and sound processing. They have made the model designing more flexible by
